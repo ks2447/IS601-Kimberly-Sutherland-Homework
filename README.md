@@ -1,4 +1,4 @@
-# IS601-Kimberly-Sutherland-Homework
+## IS601-Kimberly-Sutherland-Homework
 Hello Professor 👋
 
 Here are the steps to take to compete the first Project
@@ -9,7 +9,7 @@ Here are the steps to take to compete the first Project
 * Create an RSA key "ssh-keygen -t rsa -b 2048" and add the contents of your public id_rsa.pub file to github in settings -> ssh key area.
 * Create a branch, and a merge locally as well as on GitHub.
 * Submit a link to your repository with at least 4 nicely made commits that include commits for gitignore and contents for your readme.md file.
-
+  [Supporting Video](https://youtu.be/UaW4sT1CHfc)
 
 #Reccomended Commands to use for project
 1.  ls <- List and variations (ls -a, ls -l)
